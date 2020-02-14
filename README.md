@@ -1,7 +1,7 @@
 # Reactotron Configuration Guide
 > A simple guide for configuring the reactotron in your redux based projects.
 
-# ![Reactotron Logo](./docs/images/readme/Reactotron-128.png)
+
 
 [![Build Status][travis-image]][travis-url]
 
