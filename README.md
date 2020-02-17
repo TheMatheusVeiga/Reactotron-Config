@@ -3,9 +3,6 @@
 
 
 
-[![Build Status][travis-image]][travis-url]
-
-
 ## Installation
 
 Let's install Reactotron as a dev dependency.
